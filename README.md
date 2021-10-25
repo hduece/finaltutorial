@@ -27,6 +27,7 @@ analyzing the lifestyle choices of certain regions or countries with the lowest 
 with the highest rates of heart disease. As heart disease is the leading cause of death in the United States, this is a very prevalent medical issue and 
 research like this can help educate people about how their everyday decisions can affect their health. 
 
+
 **Collaboration Plan:**
 
 To begin the project, we started by setting up a Github repository and ensuring that we were both listed as collaborators. Since the 
@@ -34,6 +35,7 @@ website was created with Hailey’s account, Jordan cloned the repository on her
 Zoom to discuss datasets we were interested in exploring and possible ideas about how we would analyze these datasets. For future 
 collaboration, we are planning to meet twice a week on Tuesdays and Thursdays for two hours each day via Zoom or in-person and will 
 be coordinating code through a private Github repository. 
+
 
 **Challenges with Obtaining Data:**
 

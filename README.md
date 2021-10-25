@@ -2,7 +2,8 @@ github: https://github.com/hduece/finaltutorial
 
 site https://hduece.github.io/finaltutorial/
 
-Project Plan: 
+**Project Plan:** 
+
 As partners (Hailey Dusablon and Jordan Stein), we are interested in exploring socioeconomic factors that may be correlated to health issues. 
 Since we are both interested in careers in the healthcare field, analyzing this type of data would be a great opportunity to gain some insight 
 into how lifestyle factors may affect the health of populations. This type of research is important because lifestyle choices can be changed, 
@@ -30,14 +31,16 @@ analyzing the lifestyle choices of certain regions or countries with the lowest 
 with the highest rates of heart disease. As heart disease is the leading cause of death in the United States, this is a very prevalent medical issue and 
 research like this can help educate people about how their everyday decisions can affect their health. 
 
-Collaboration Plan:
+**Collaboration Plan:**
+
 To begin the project, we started by setting up a Github repository and ensuring that we were both listed as collaborators. Since the 
 website was created with Hailey’s account, Jordan cloned the repository on her computer. After this website was established, we met on 
 Zoom to discuss datasets we were interested in exploring and possible ideas about how we would analyze these datasets. For future 
 collaboration, we are planning to meet twice a week on Tuesdays and Thursdays for two hours each day via Zoom or in-person and will 
 be coordinating code through a private Github repository. 
 
-Challenges with Obtaining Data: 
+**Challenges with Obtaining Data: **
+
 The biggest challenge in creating the dataframe was deciding how to tidy and reformat the data. We decided it would be best to drop the 
 columns that we would not need for our research purposes. We dropped any columns that had information regarding the number of vaccines 
 delivered to each state, since we are only interested in looking at the number of vaccines that were administered to populations. We 

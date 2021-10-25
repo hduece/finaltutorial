@@ -1,7 +1,3 @@
-github: https://github.com/hduece/finaltutorial
-
-site https://hduece.github.io/finaltutorial/
-
 **Project Plan:** 
 
 As partners (Hailey Dusablon and Jordan Stein), we are interested in exploring socioeconomic factors that may be correlated to health issues. 
@@ -39,7 +35,7 @@ Zoom to discuss datasets we were interested in exploring and possible ideas abou
 collaboration, we are planning to meet twice a week on Tuesdays and Thursdays for two hours each day via Zoom or in-person and will 
 be coordinating code through a private Github repository. 
 
-**Challenges with Obtaining Data: **
+**Challenges with Obtaining Data:**
 
 The biggest challenge in creating the dataframe was deciding how to tidy and reformat the data. We decided it would be best to drop the 
 columns that we would not need for our research purposes. We dropped any columns that had information regarding the number of vaccines 

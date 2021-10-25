@@ -1,5 +1,3 @@
-UPDATED
-
 **Project Plan:** 
 
 As partners (Hailey Dusablon and Jordan Stein), we are interested in exploring socioeconomic factors that may be correlated to health issues. 

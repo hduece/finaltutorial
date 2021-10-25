@@ -1,3 +1,7 @@
+github: https://github.com/hduece/finaltutorial
+
+site https://hduece.github.io/finaltutorial/
+
 Project Plan: 
 As partners (Hailey Dusablon and Jordan Stein), we are interested in exploring socioeconomic factors that may be correlated to health issues. 
 Since we are both interested in careers in the healthcare field, analyzing this type of data would be a great opportunity to gain some insight 

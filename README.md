@@ -47,3 +47,8 @@ about the 65+ age group because older populations are at a significantly higher 
 about the booster vaccine since the data was only available at a national level (because the booster vaccine was only developed very recently). 
 Another challenge in starting this project was learning how to navigate GitHub. It took a bit of trial-and-error to figure out how to organize 
 our information on the site. Now, we are more familiar and comfortable with using GitHub.
+
+**Links**
+
+Website: https://hduece.github.io/finaltutorial/
+Github: https://github.com/hduece/finaltutorial
